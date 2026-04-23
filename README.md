@@ -1,2 +1,2 @@
 # zoolagoa
-Manuscrito do TCC da lagoa_estrutura
+Manuscrito do TCC da lagoa_comunidade
