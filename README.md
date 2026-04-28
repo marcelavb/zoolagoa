@@ -1,2 +1,2 @@
-# zoolagoa
-Manuscrito do TCC da lagoa_comunidade
+# mxr23_Q
+Manuscrito MXR REBio 2023
